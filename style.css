@@ -1,0 +1,15 @@
+.text-color { color: grey;}
+
+body {background-color: black;}
+
+li {color: white;}
+
+h2 {color: cornflowerblue;}
+
+h1 {color: cornflowerblue;}
+
+img {
+    height:auto;
+    width:500px;
+}
+
